@@ -29,7 +29,7 @@ fraud-detection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshat4703/fraud-detection.git
+   git clone https://github.com/akshat4703/fraud-detection.git](https://github.com/akshat4703/Fraud-Detection-in-Financial-Transactions-with-TensorFlow-.git
    cd fraud-detection
 
 2. Create a virtual environment (recommended):
@@ -122,6 +122,7 @@ pip install -r requirements.txt
 ✅ REST API with FastAPI
 
 ✅ Real-time transaction streaming simulation
+
 
 
 
